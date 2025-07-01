@@ -5,5 +5,4 @@
 
 Brazilian, Web Developer and passionate about technology
 - Languages: Portuguese | English
-- In a serious relationship with Java, Python and OutSystems since 2015
-- Studying JavaScript, NodeJs and React to improve my possibilities as a Web Developer
+- In a serious relationship with Python and Javascript since 2015
